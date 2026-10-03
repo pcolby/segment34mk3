@@ -23,7 +23,7 @@ The watchface features the following:
 https://github.com/ludw/segment34mk3/blob/main/FAQ.md
 
 ## IQ Store Listing
-https://apps.garmin.com/apps/aa85d03d-ab89-4e06-b8c6-71a014198593
+https://apps.garmin.com/apps/7f69a012-cfba-4519-879c-92fc556e0644
 
 ## Buy me a coffee (if you want to)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M51A1RGV)
